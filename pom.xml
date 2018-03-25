@@ -32,6 +32,11 @@
 			<artifactId>jackson-databind</artifactId>
 			<version>2.9.0</version>
 		</dependency>
+		<!-- <dependency>
+			<groupId>com.restwithdata</groupId>
+			<artifactId>IMCSSpringRestData</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency> -->
 		<dependency>
 			<groupId>com.imcs.employeedao</groupId>
 			<artifactId>IMCSEmployeeDao</artifactId>
